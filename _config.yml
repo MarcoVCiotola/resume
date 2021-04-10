@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: 🌟🌟🌟🌟🌟🌟🌟🌟🌟 
 description: Marco Ciotola's CV
 logo: /assets/cv-logo.png
+google_analytics: G-62T31V2HS9
 
 plugins:
   - jemoji
