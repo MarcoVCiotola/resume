@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
-title: Digital-CV
+title: 🌟🌟🌟🌟🌟🌟🌟🌟🌟 
 description: Marco Ciotola's CV
+logo: /assets/cv-logo.png
+
+plugins:
+  - jemoji

@@ -4,7 +4,7 @@
 
 _Computer Scientist™ with several years of experience building and maintaining high availability/high data flow systems, mostly focused on JVM technologies and committed to high quality standards. Experienced working with medium and large teams, applying agile methodologies, and bug-fixing/contingencies teams facing demanding technical challenges and deadlines._ <br>
 
-[Email](mailto:marcovciotola@gmail.com)  [LinkedIn](https://www.linkedin.com/in/marcovciotola/) 
+ :email: [Email](mailto:marcovciotola@gmail.com)   :link: [LinkedIn](https://www.linkedin.com/in/marcovciotola/) 
 
 
 
@@ -26,10 +26,6 @@ Design and Development of features under Assisted Sales team, focused on providi
    - Back-end service, built from the ground up, in charge of listening and analyzing different kinds of events (sells, web-sites queries, cross-selling events, etc) and translate them to actionable items, such as Notifications, directed to the sells team. I've been involved from the earlier stages in the design and development of this service: Java 12 + Spring Boot micro-service.
 6. _Trip-Products:_
    - Back-end service conceived as a facade for other assisted-sales services (*Trip-Planner*, *Opportunities*) to interact in an abstract way with all of the company's existing products (Flights, Hotels, Cars, etc). I was in charge of the decoupling from *Trip-Planner* and of the design and development of the resulting micro-service.
-7. Attentions (CVC-Corp):
-   - Description TBD
-8. Task Broker (CVC-Corp):
-   - Description TBD
 
 - **_Technologies highlights:_** Docker, Kubernetes, NGINX, Java(8-16), Spring Boot (1-2), NodeJS + Typescript + Express, MongoDB, MySQL, RabbitMQ, ELK, CI/CD using Gitlab + Jenkins, VCS with git + gitFlow.
   <br><br>
@@ -57,11 +53,11 @@ During my time in *Globant* I had the chance to work for two of the biggest clie
 
 ## 💬  Languages
 
-**Spanish**: Native <br>
-**English**: Full Professional Proficiency
+:es:   **Spanish**: Native <br>
+:uk:   **English**: Full Professional Proficiency
 <br><br>
 
-##  ‍🎓  Education
+## 🎓  Education
 
 **Collage Degree on Computer Sciences**<br>
 [National University of Tucumán](https://en.wikipedia.org/wiki/National_University_of_Tucum%C3%A1n) @[School of Exact Sciences and Technology](https://www.facet.unt.edu.ar/)<br>
