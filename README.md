@@ -8,7 +8,7 @@ _Computer Scientist™ with several years of experience building and maintaining
 
 
 
-## 💻 Experience
+##  💻  Experience
 
 ### **Software Engineer** @ [Almundo](https://almundo.com.ar/)  _(Mar 2018 - Present)_ <br>
 
@@ -33,3 +33,38 @@ Design and Development of features under Assisted Sales team, focused on providi
 
 - **_Technologies highlights:_** Docker, Kubernetes, NGINX, Java(8-16), Spring Boot (1-2), NodeJS + Typescript + Express, MongoDB, MySQL, RabbitMQ, ELK, CI/CD using Gitlab + Jenkins, VCS with git + gitFlow.
   <br><br>
+
+
+
+### **Java Developer** @ [Globant](https://www.globant.com/)  _(Feb 2015 - Feb 2018)_ <br>
+
+During my time in *Globant* I had the chance to work for two of the biggest client they had at the time: Texas based *Southwest Airlines*, and Spin based *OpenBank*.
+
+- Java Developer - OpenBank *(July 2017 - Feb 2018)*
+  - Development and maintenance of an online banking application, mainly in the onboarding module,  with a micro-services architecture, using various elements from the spring framework, including Spring Cloud, Spring Data, Spring Security.
+- Java Developer - Southwest Airlines *(Nov 2015 - Apr 2017)*
+  - Design, development and maintenance of a parallel production-like platform destined to customer testing and experimenting tasks with new business rules. Akka and Spring Frameworks compound the core of the application, as well as technologies as JMS, Apache Tomcat and Gradle.
+- Java Developer - Southwest Airlines (Feb 2015 - Nov 2015)
+  - Developed and maintained several platforms for airline crews scheduling. Extensive use of Spring Framework, Akka, ActiveMQ and Websphere.
+
+
+
+- **_Technologies highlights:_** Java(5-8), Spring, Spring Boot and Spring cloud Netflix stack, Oracle SQL, Akka, Kafka, RabbitMQ, Websphere, git-svn.
+
+  <br><br>
+
+
+
+## 💬  Languages
+
+**Spanish**: Native <br>
+**English**: Full Professional Proficiency
+<br><br>
+
+##  ‍🎓  Education
+
+**Collage Degree on Computer Sciences**<br>
+[National University of Tucumán](https://en.wikipedia.org/wiki/National_University_of_Tucum%C3%A1n) @[School of Exact Sciences and Technology](https://www.facet.unt.edu.ar/)<br>
+
+San Miguel de Tucumán, Tucumán, Argentina _(2007 - 2015)_
+
