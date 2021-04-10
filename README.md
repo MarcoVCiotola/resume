@@ -10,7 +10,7 @@ _Computer Scientist™ with several years of experience building and maintaining
 
 ##  💻  Experience
 
-### **Software Engineer** @ [Almundo](https://almundo.com.ar/)  _(Mar 2018 - Present)_ <br>
+###  **Software Engineer** @ [Almundo](https://almundo.com.ar/)<img src="./assets/alm.png" alt="alm" width="20">  _(Mar 2018 - Present)_ <br>
 
 Design and Development of features under Assisted Sales team, focused on providing efficient and intuitive tools to the sales and post-sale staff members. Some of the projects I worked on  (in no particular order):
 
@@ -36,7 +36,7 @@ Design and Development of features under Assisted Sales team, focused on providi
 
 
 
-### **Java Developer** @ [Globant](https://www.globant.com/)  _(Feb 2015 - Feb 2018)_ <br>
+### **Java Developer** @ [Globant](https://www.globant.com/)<img src="./assets/globant.png" alt="glb" width="20" >  _(Feb 2015 - Feb 2018)_ <br>
 
 During my time in *Globant* I had the chance to work for two of the biggest client they had at the time: Texas based *Southwest Airlines*, and Spin based *OpenBank*.
 
