@@ -4,11 +4,11 @@
 
 _Computer Scientist™ with several years of experience building and maintaining high availability/high data flow systems, mostly focused on JVM technologies and committed to high quality standards. Experienced working with medium and large teams, applying agile methodologies, and bug-fixing/contingencies teams facing demanding technical challenges and deadlines._ <br>
 
-:email:[Email](mailto:marcovciotola@gmail.com)   :link:[LinkedIn](https://www.linkedin.com/in/marcovciotola/) 
+[Email](mailto:marcovciotola@gmail.com)  [LinkedIn](https://www.linkedin.com/in/marcovciotola/) 
 
 
 
-## :computer: Experience
+## 💻 Experience
 
 ### **Software Engineer** @ [Almundo](https://almundo.com.ar/)  _(Mar 2018 - Present)_ <br>
 
